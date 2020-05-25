@@ -10,6 +10,6 @@ In the future I will improve this example adding database and authentication sup
 ## Usage
 
 ```
-deno run --allow-net server.ts
+deno run --allow-net=:5000 server.ts
 ```
 
